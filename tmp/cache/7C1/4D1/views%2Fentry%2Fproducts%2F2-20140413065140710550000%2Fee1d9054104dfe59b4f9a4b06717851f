@@ -1,0 +1,11 @@
+o: ActiveSupport::Cache::Entry:@valueI"      <div class="entry">
+        <img alt="Java" src="/assets/java.jpg" />
+        <h3>Java 8</h3>
+        <p>
+    Java 8 just got released. Checkout the new features.
+    </p>
+        <div class="price_line">
+          <span class="price">$34.95</span>
+        </div>
+      </div>
+:ET:@created_atf1397425212.2398775:@expires_in0

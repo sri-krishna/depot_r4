@@ -1,0 +1,24 @@
+o: ActiveSupport::Cache::Entry:@valueI"Å      <div class="entry">
+        <img alt="Java" src="/assets/java.jpg" />
+        <h3>Java 8</h3>
+        <p>
+    Java 8 just got released. Checkout the new features.
+    </p>
+        <div class="price_line">
+          <span class="price">$34.95</span>
+        </div>
+      </div>
+      <div class="entry">
+        <img alt="Ruby" src="/assets/ruby.jpg" />
+        <h3>Programming Ruby 1.9 &amp; 2.0</h3>
+        <p>
+    Ruby is the fastest growing and most exciting dynamic language out there.
+    If you need to get working programs delivered fast, you should add Ruby to
+    your toolbox.
+    </p>
+        <div class="price_line">
+          <span class="price">$49.95</span>
+        </div>
+      </div>
+
+:ET:@created_atf1397425212.247434:@expires_in0
