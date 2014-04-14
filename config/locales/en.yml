@@ -21,3 +21,6 @@
 
 en:
   hello: "Hello world"
+  error:
+    messages:
+      taken: "has already been taken"
